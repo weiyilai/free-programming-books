@@ -172,6 +172,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
 * [An Introduction to Cellular Automata](https://ia801004.us.archive.org/26/items/viviencellularautomata/vivien%20cellular%20automata.pdf) - Hélène Vivien (PDF)
+* [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) - Hiroki Sayama
 
 
 ### Cloud Computing
@@ -917,6 +918,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
 * [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
+* [Web Browser Engineering](https://browser.engineering/index.html) - Pavel Panchekha, Chris Harrelson
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 * [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
 
